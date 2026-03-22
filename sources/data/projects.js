@@ -1,162 +1,77 @@
 export default [
     {
-        title: 'Three.js Journey',
-        titleSmall: [ 'Three.js', 'Journey' ],
-        url: 'https://threejs-journey.com',
+        title: 'TheSystem',
+        titleSmall: [ 'The', 'System' ],
+        url: 'https://github.com/nyxeara',
         attributes:
         {
-            role: [ 'developer', 'formater' ],
-            with: [ 'Hervé Studio', 'Bonhomme Paris' ]
+            role: [ 'developer', 'designer' ],
+            with: [ 'React', 'JavaScript' ]
         },
-        distinctions: [ 'fwa' ], // 'awwwards', 'fwa', 'cssda'
+        distinctions: [],
         images:
         [
-            'threejs-journey-1.ktx',
-            'threejs-journey-2.ktx',
-            'threejs-journey-3.ktx',
-            'threejs-journey-4.ktx',
-            'threejs-journey-5.ktx',
-        ]
-    },
-    // {
-    //     title: 'Chartogne Taillet',
-    //     titleSmall: [ 'Chartogne', 'Taillet' ],
-    //     url: 'https://chartogne-taillet.com',
-    //     attributes:
-    //     {
-    //         at: 'Immersive Garden',
-    //         role: 'WebGL developer',
-    //         with: 'Rémi Tran'
-    //     },
-    //     distinctions: [ 'awwwards', 'cssda', 'fwa' ], // 'awwwards', 'fwa', 'cssda'
-    //     images:
-    //     [
-    //         'chartogne-taillet-1.ktx',
-    //         'chartogne-taillet-2.ktx',
-    //         'chartogne-taillet-3.ktx',
-    //     ]
-    // },
-    {
-        title: 'Bonhomme | 10 ans',
-        titleSmall: [ 'Bonhomme', '10 ans' ],
-        url: 'https://anniversary.bonhommeparis.com',
-        attributes:
-        {
-            role: 'WebGL developer',
-            with: 'Bonhomme Paris'
-        },
-        distinctions: [ 'awwwards', 'fwa' ],
-        images:
-        [
-            'bonhomme-10-ans-1.ktx',
-            'bonhomme-10-ans-2.ktx',
-            'bonhomme-10-ans-3.ktx',
+            'thesystem-1.ktx',
         ]
     },
     {
-        title: 'Madbox',
-        titleSmall: [ 'Madbox' ],
-        url: 'https://madbox.io',
+        title: 'DUST Language',
+        titleSmall: [ 'DUST', 'Lang' ],
+        url: 'https://github.com/nyxeara',
         attributes:
         {
-            role: 'WebGL developer',
-            at: 'Hervé Studio',
-            with: 'Lei Xing'
+            role: [ 'creator', 'developer' ],
+            with: [ 'Python' ]
         },
-        distinctions: [ 'awwwards' ],
+        distinctions: [],
         images:
         [
-            'madbox-1.ktx',
-            'madbox-2.ktx',
-            'madbox-3.ktx',
+            'dust-1.ktx',
         ]
     },
     {
-        title: 'Luni',
-        titleSmall: [ 'Luni' ],
-        url: 'https://www.luni.app',
+        title: 'Neural Network',
+        titleSmall: [ 'Neural', 'Net' ],
+        url: 'https://github.com/nyxeara',
         attributes:
         {
-            role: 'WebGL developer',
-            at: 'Hervé Studio',
-            with: 'Loïc Belaidremesal'
+            role: [ 'researcher', 'developer' ],
+            with: [ 'Python', 'Termux' ]
         },
-        distinctions: [ 'awwwards', 'fwa' ],
+        distinctions: [],
         images:
         [
-            'luni-1.ktx',
-            'luni-2.ktx',
-            'luni-3.ktx',
-            'luni-4.ktx',
+            'neural-1.ktx',
         ]
     },
     {
-        title: 'Scout',
-        titleSmall: [ 'Scout' ],
-        url: 'https://scout-omega.vercel.app',
+        title: 'TikTok Analysis',
+        titleSmall: [ 'TikTok', 'Study' ],
+        url: 'https://github.com/nyxeara',
         attributes:
         {
-            role: 'WebGL developer',
-            at: 'Hervé Studio'
+            role: [ 'researcher', 'analyst' ],
+            with: [ 'React', 'Data Science' ]
         },
-        distinctions: [  ],
+        distinctions: [],
         images:
         [
-            'scout-1.ktx',
-            'scout-2.ktx',
-            'scout-3.ktx',
+            'tiktok-1.ktx',
         ]
     },
     {
-        title: 'Prior Holdings',
-        titleSmall: [ 'Prio', 'Holdings' ],
-        url: 'https://prior.co.jp/discover/en',
+        title: 'Polymaths Book',
+        titleSmall: [ 'الموسو', 'عيون' ],
+        url: 'https://github.com/nyxeara',
         attributes:
         {
-            role: [ 'Front developer', 'WebGL developer' ],
-            at: 'Immersive Garden'
+            role: [ 'author', 'writer' ],
+            with: [ 'Arabic', 'Philosophy' ]
         },
-        distinctions: [ 'awwwards', 'cssda', 'fwa' ],
+        distinctions: [],
         images:
         [
-            'prior-1.ktx',
-            'prior-2.ktx',
-            'prior-3.ktx',
+            'book-1.ktx',
         ]
     },
-    {
-        title: 'Orano',
-        titleSmall:  'Orano',
-        url: 'https://www.orano.group/experience/innovation/en',
-        attributes:
-        {
-            role: [ 'Front developer', 'WebGL developer' ],
-            at: 'Immersive Garden'
-        },
-        distinctions: [ 'awwwards', 'cssda', 'fwa' ],
-        images:
-        [
-            'orano-1.ktx',
-            'orano-2.ktx',
-            'orano-3.ktx',
-        ]
-    },
-    {
-        title: 'Citrix / Redbull',
-        titleSmall: ['Citrix', 'Redbull'],
-        url: 'https://thenewmobileworkforce.imm-g-prod.com',
-        attributes:
-        {
-            role: [ 'WebGL developer' ],
-            at: 'Immersive Garden',
-            with: [ 'Damien Doussaud', 'Quentin Leclercq' ]
-        },
-        distinctions: [ 'awwwards', 'cssda', 'fwa' ],
-        images:
-        [
-            'citrix-redbull-1.ktx',
-            'citrix-redbull-2.ktx',
-            'citrix-redbull-3.ktx',
-        ]
-    }
 ]
